@@ -1,0 +1,32 @@
+.name {
+	width: 100%;
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Helevetica', sans-serif;
+}
+.image {
+	width: 100%;
+	align-content: center;
+}
+.counter {
+	width: 100%;
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Helevetica', sans-serif;
+}
+
+.list {
+	width: 100%;
+	
+}
+
+.gallery {
+	width: 50%;
+	float: left;
+ 	align-content: left;
+}
+ .admin {
+	width: 50%;
+	float: right;
+ 	align-content: right;
+ }
